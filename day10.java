@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class day10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        sc.close();
 
         String s = sc.nextLine();
 

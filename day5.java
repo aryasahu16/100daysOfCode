@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class day5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        sc.close();
 
         // Input first sorted array
         int p = sc.nextInt();
